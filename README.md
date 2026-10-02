@@ -9,8 +9,6 @@ Agent Skills that help you organize patent and trademark filings in Canada and t
 | `us-provisional-patent` | Organizing a US provisional patent application with the USPTO |
 | `us-trademark` | Organizing a US trademark application with the USPTO |
 
-These are preparation guidelines, not legal advice. Review every filing with a registered patent or trademark agent before you submit it.
-
 ## Install
 
 With [Dojo Workspace](https://heydojo.ai):
@@ -26,6 +24,10 @@ npx skills add neekware/patent-trademark-skills -g
 ```
 
 Add `-p` to `dojo skills add` (or drop `-g` from `npx skills add`) to install into the current project only.
+
+## Disclaimer
+
+These skills are for general information only and are not legal advice. Filing rules, fees, and forms change, and this content may be out of date. Talk to your own lawyer or a registered patent or trademark agent before you file anything.
 
 ## License
 
