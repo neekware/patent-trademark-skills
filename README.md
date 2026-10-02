@@ -30,3 +30,9 @@ Add `-p` to `dojo skills add` (or drop `-g` from `npx skills add`) to install in
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Sponsors
+
+[Neekware Inc.](https://neekware.com) — creator of [Dojo Workspace](https://heydojo.ai), your AI workspace for building, learning, and getting things done.
+
+🚀 Created with [Dojo](https://heydojo.ai) ⛩️
